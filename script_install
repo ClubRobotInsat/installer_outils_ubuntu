@@ -6,7 +6,7 @@ sudo apt install python3-pip
 sudo apt install curl
 sudo apt install git
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-sudo apt openocd
+sudo apt install openocd
 sudo apt install gdb-multiarch
 sudo apt install libssl-dev
 echo "Fermer ce terminal et telecharger cargo-generate dans un nouveau"
