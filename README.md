@@ -16,6 +16,7 @@ N'oubliez pas de taper votre mot de passe! (Même si on voit rien à l'écran vo
 * OpenCOD
 * gdb-multiarch
 * Libssk-dev
+* Rust
          
          
 Reste encore à installer: Clion et discord
